@@ -55,7 +55,17 @@ The dashboard helps users analyze business performance, identify sales patterns,
 
 ## Dashboard Screenshots
 
-Dashboard screenshots will be added to this repository.
+### 1. Executive Sales Dashboard - Product View
+![Product View](screenshots/Executive_sales_Dashboard_product%20view.png)
+
+### 2. Executive Sales Dashboard - Location View
+![Location View](screenshots/Executive_sales_Dashboard_location%20view.png)
+
+### 3. Drillthrough Analysis
+![Drillthrough Dashboard](screenshots/Executive_sales_Dashboard_DrillThrough%281%29.png)
+
+### 4. Advanced Tooltip
+![Advanced Tooltip](screenshots/Executive_sales_Dashboard_tooltips%281%29.png)
 
 ## How to Use
 
