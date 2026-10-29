@@ -62,10 +62,10 @@ The dashboard helps users analyze business performance, identify sales patterns,
 ![Location View](screenshots/Executive_sales_Dashboard_location%20view.png)
 
 ### 3. Drillthrough Analysis
-![Drillthrough Dashboard](screenshots/Executive_sales_Dashboard_DrillThrough%281%29.png)
+![Drillthrough Dashboard](screenshots/Executive_sales_Dashboard_DrillThrough.png)
 
 ### 4. Advanced Tooltip
-![Advanced Tooltip](screenshots/Executive_sales_Dashboard_tooltips%281%29.png)
+![Advanced Tooltip](screenshots/Executive_sales_Dashboard_tooltips.png)
 
 ## How to Use
 
